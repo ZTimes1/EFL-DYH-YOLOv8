@@ -1,4 +1,4 @@
-# FFCA-YOLO
+# EFL-DYH-YOLOv8
 The corresponding paper title for this project is “Small object detection in drone images based on extended feature layer and attention detection head”.
 In the future, various data and codes in the paper will gradually be opened up.
 
