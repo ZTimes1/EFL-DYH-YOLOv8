@@ -7,5 +7,7 @@ train.py --weights --cfg your yaml address --data VisDrone.yaml --batch-size 8 -
 
 # USOD dataset
 VisDrone:https://github.com/VisDrone/VisDrone-Dataset
+
 UAVDT:https://sites.google.com/view/grli-uavdt
+
 DOTA:https://captain-whu.github.io/DOTA
